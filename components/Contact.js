@@ -14,8 +14,6 @@ var Contact = React.createClass({
               {this.props.item.email}
           </a>
       </div>
-        )
-      )
     )
   },
 });
